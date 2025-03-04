@@ -9,9 +9,27 @@ h1 {
     color: white;
     font-size: 80px;
     font-weight: 700;
+    margin: 20px auto;
 }
 
 .disclaimer {
     color: red;
     font-weight: 700;
+}
+
+a {
+    display: inline-block;
+    padding: 24px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 1%;
+}
+
+ul {
+    margin: 20px auto;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px;
 }
